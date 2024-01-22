@@ -3,7 +3,7 @@ bl_info = {
     'author': 'Ömer Faruk Genç',
     'description': "This addon was written to be able to operate in Blender faster and easier.",
     'blender': (3, 6),
-    'version': (1, 1),
+    'version': (1, 2),
     'location': 'View3D > Sidebar > EASIER',
     'warning': '',
     'wiki_url': "",
